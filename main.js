@@ -13,6 +13,13 @@ for (let contador = 0;contador < listaDeTeclas.length; contador++){
         tocaSom(idAudio);// chmada da função tocaSom com prâmetro idAudio
     }
    tecla.onkeydown = function) {
-if (EventSource. code !='tabe"){
-    tecla.classList.add(àtiva'
+if ('Espaço'){
+    tecla.classList.add('àtiva');
+}
+
+{
+tecla.onkey=function() {
+    tecla.classList.remove ('ativa');
+}
+
 }
